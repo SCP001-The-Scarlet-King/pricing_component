@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pricing_component/static/css/main.44dd3f60.css",
+    "main.js": "/pricing_component/static/js/main.d95ff8d0.js",
+    "static/media/sun.svg": "/pricing_component/static/media/sun.0117de3960fb5aa9cbca45a30c74c308.svg",
+    "static/media/moon.svg": "/pricing_component/static/media/moon.59f5c05d834263e428f0441458651e63.svg",
+    "index.html": "/pricing_component/index.html",
+    "main.44dd3f60.css.map": "/pricing_component/static/css/main.44dd3f60.css.map",
+    "main.d95ff8d0.js.map": "/pricing_component/static/js/main.d95ff8d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44dd3f60.css",
+    "static/js/main.d95ff8d0.js"
+  ]
+}
